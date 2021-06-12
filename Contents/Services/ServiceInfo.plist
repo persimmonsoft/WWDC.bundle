@@ -4,11 +4,11 @@
 <dict>
 	<key>URL</key>
 	<dict>
-		<key>WWDC 2017 Videos</key>
+		<key>WWDC 2021 Videos</key>
 		<dict>
 			<key>URLPatterns</key>
 			<array>
-				<string>https://developer.apple.com/videos/play/wwdc2017/[0-9]+/</string>
+				<string>https://developer.apple.com/videos/play/wwdc2021/[0-9]+/</string>
 			</array>
 		</dict>
 	</dict>

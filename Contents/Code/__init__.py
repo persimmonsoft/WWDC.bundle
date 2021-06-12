@@ -1,6 +1,7 @@
-NAME = 'WWDC 2017 Videos'
+NAME = 'WWDC 2021 Videos'
 ICON = 'icon-default.png'
-WWDC_ROOT = 'https://developer.apple.com/videos/wwdc2017/'
+WWDC_ROOT = 'https://developer.apple.com/videos/wwdc2021/'
+# WWDC URL: https://developer.apple.com/videos/play/wwdc2021/10021/
 
 def Start():
 	ObjectContainer.title1 = NAME
